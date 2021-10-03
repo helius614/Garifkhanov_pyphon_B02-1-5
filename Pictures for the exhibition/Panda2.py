@@ -312,8 +312,6 @@ draw_bamboo_sticks2()
 draw_bamboo_branches2()
 draw_leaves2()
 draw_panda2()
-#picture = pygame.image.load(bigpanda.py)
-#picture = pygame.transform.scale(picture, (100, 200))
 
 pygame.display.update()
 clock = pygame.time.Clock()
